@@ -17,6 +17,8 @@
   * [23 - Telnet](ports/23-telnet.md)
   * [25 - SMTP](ports/25-smtp.md)
   * [53 - DNS](ports/53-dns.md)
+  * [67/68 - DHCP](ports/67-68-dhcp.md)
+  * [69 - TFTP](ports/69-tftp.md)
   * [80](ports/80.md)
   * [143](ports/143.md)
 * [Topics 📚](topics.md)

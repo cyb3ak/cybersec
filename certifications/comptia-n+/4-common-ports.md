@@ -1,13 +1,13 @@
 # 4 - Common ports
 
-`🏷️ Tags:` **\#telnet \#port23 \#ssh**
+`🏷️ Tags:` **\#ftp \#port20 \#port21 \#ssh \#sftp \#port22 \#telnet \#port23 \#smtp \#port25 \#dns \#port53 \#tftp \#port69 \#dhcp \#port67 \#port68**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-### Port 20/21 TCP - FTP \(File Transfer Protocol\)
+### Port 20/21 `TCP` - FTP \(File Transfer Protocol\)
 
 * Port 20 - Active mode data
-* Port 21 - control
+* Port 21 - control mode
 * Non - encrypted
 * Auth with user-pass
 * Fully featured functionality \(list, add, delete\)
@@ -38,4 +38,15 @@
 ### Port 53 `UDP` - DNS \(Domain Name System\)
 
 * Converts web address to IP address
+
+### Port 69 `UDP` - TFTP \(Trivial File Transfer System\)
+
+* Very Simple FTP
+* Read-write files
+* No Auth
+* Not useful in a production environment 
+
+### Port 67/68 `UDP` - DHCP \(Dynamic Host Configuration Protocol\)
+
+
 
