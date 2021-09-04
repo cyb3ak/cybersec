@@ -5,6 +5,7 @@
   * [CompTIA N+](certifications/comptia-n+/README.md)
     * [3 - Intro To IP](certifications/comptia-n+/3-intro-to-ip.md)
     * [4 - Common ports](certifications/comptia-n+/4-common-ports.md)
+    * [5 - OSI model](certifications/comptia-n+/5-osi-model.md)
 * [Pentesting 💻](pentesting/README.md)
   * [Enumeration](pentesting/enumeration.md)
   * [Privilege Escalation](pentesting/privilege-escalation/README.md)
