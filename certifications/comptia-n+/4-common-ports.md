@@ -57,7 +57,63 @@
 
 * for web communication
 
+### Port 110 TCP - POP3 \(Post Office Protocol V3\)
+
+* receives emails from an Email server
+* Basic mail transfer functionality
+
+### Port 143 TCP - IMAP4 \(Internet Message Access\)
+
+* receives emails from an Email server
+* we use this - includes mailbox management, we see the same functionality in mobile as in web
+
+### Port 123 ~~`UDP`~~ - NTP \(Network Time Protocol\)
+
+* Switches, Routers, Firewall, Servers, Workstation, etc all have their own **clock**
+* Synchronises the clock
+* Automatic updates
+* Flexible - you control how often clocks are updated
+* Very accurate ~ 1ms on a local network
+
+### Port 161 `UDP` - SNMP \(Simple Network Management Protocol\)
+
+* Gather **Statistics** from Network devices \(Routers, switches, etc\)
+* **SNMP V1** - Structured Tables - request & response in clear-text
+* **SNMP V2** - Data type enhancement - Bulk transfer - uses clear-text
+* **SNMP V3** - a secure Standard - provides Message Integrity, Authentication, Encryption
+
+### Port 389 `TCP` -  LDAP \(Lightweight Directory Access Protocol\)
+
+* Store & Retrieve information in a network directory
+
 ### Port 443 `TCP` - HTTPS \(HTTP Secure\)
 
 * for web communication with security
+
+### Port 445 `TCP` - SMB \(Server Message Block\) \| NetBIOS - less
+
+* Used by Windows for file/printer sharing on a network
+* Also called CIFS \(Common Internet File System\)
+* SMB communication over TCP without using NetBIOS transport
+
+### Port 636`TCP` -  LDAPs \(LDAP Secure\)
+
+* LDAP over SSL
+
+### Port 1720 `TCP` - H.323
+
+* ITU Telecommunication H.23x series
+* Setup & manages VOIP sessions - call, ring, hang
+* earliest VOIP protocol - still used
+
+### Port 3389 `TCP` - RDP \(Remote Desktop protocol\)
+
+* Share desktop from a remote location
+* can connect to an entire desktop or just an application
+
+### Port 5060/5061 `TCP` - SIP \(Session Initiation Protocol\)
+
+* Voice over IP \(**VOIP**\) signaling
+
+
 
