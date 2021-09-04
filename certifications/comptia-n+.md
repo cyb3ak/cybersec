@@ -1,2 +1,0 @@
-# CompTia N+
-
