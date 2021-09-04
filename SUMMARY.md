@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Pentesting 💻](README.md)
+* [Certifications 📜](certifications/README.md)
+  * [CompTia N+](certifications/comptia-n+.md)
 
