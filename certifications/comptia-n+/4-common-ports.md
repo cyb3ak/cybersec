@@ -48,5 +48,16 @@
 
 ### Port 67/68 `UDP` - DHCP \(Dynamic Host Configuration Protocol\)
 
+* Automated configures IP Address, subnet mask, etc
+* Requires a DHCP server:  - Server, Appliances, integrated into a SOHO router
+*  Dynamic/Pooled 1. IP Addresses are assigned in real-time from the pool  2. Each device is given a lease & must renew after a certain time
+* DHCP reservation - Addresses are assigned on the basis of MAC addresses - Quickly manage addresses from one location
 
+### Port 80 `TCP` - HTTP \(HyperText Transfer Protocol\)
+
+* for web communication
+
+### Port 443 `TCP` - HTTPS \(HTTP Secure\)
+
+* for web communication with security
 
