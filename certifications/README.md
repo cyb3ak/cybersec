@@ -1,2 +1,2 @@
-# Certifications 📜
+# Courses 📜
 
