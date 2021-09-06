@@ -28,6 +28,7 @@
   * [80 - HTTP](ports/80.md)
   * [110 - POP3](ports/110-pop3.md)
   * [123 - NTP](ports/123-ntp.md)
+  * [139 - SMB](ports/139-smb.md)
   * [143 - IMAP4](ports/143.md)
   * [161 - SNMP](ports/161-snmp.md)
   * [389 - LDAP](ports/389-ldap.md)
