@@ -1,5 +1,7 @@
 # Ports 🧿
 
+**`💨 = UDP`**
+
 ### Types of Ports
 
 1. Non-ephemeral ports - **Permanant** Ports \(**0**-**1023**\)
