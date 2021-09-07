@@ -1,4 +1,6 @@
 # IP Address
 
-![](../.gitbook/assets/ip-address-classes-table.png)
+![IP Address Classes](../.gitbook/assets/ip-address-classes-table.png)
+
+
 

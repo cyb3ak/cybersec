@@ -39,6 +39,7 @@
   * [3389 - RDP](ports/3389-rdp.md)
   * [5060/5061 - SIP](ports/5060-5061-sip.md)
 * [Topics 📚](topics/README.md)
+  * [Subnetting](topics/subnetting.md)
   * [IP Address](topics/ip-address.md)
 * [Practice ✍️](practice/README.md)
   * [THM](practice/thm.md)
