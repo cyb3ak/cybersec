@@ -4,7 +4,7 @@
 ifconfig
 ```
 
-Results: 
+Results:
 
 * **`inet = IPv4`** - 32 bit long = 2^32 ~ 4 billion \(4 arab\) 
 * **`inet6 = IPv6`** - 128 bit long = 2^128
