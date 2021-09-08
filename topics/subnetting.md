@@ -4,6 +4,8 @@ TCM Subnetting Guide - [`Google Drive Link`](https://drive.google.com/file/d/1ET
 
 {% file src="../.gitbook/assets/subnet-guide.xlsx" caption="TCM Subnetting Guide xlsx format" %}
 
+![](../.gitbook/assets/subnetting-cheat-sheet.png)
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Out of 32-bit IPv4 address:
