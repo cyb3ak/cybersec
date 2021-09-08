@@ -11,5 +11,5 @@ TCM Subnetting Guide - [`Google Drive Link`](https://drive.google.com/file/d/1ET
 Out of 32-bit IPv4 address:
 
 * Count the 1's & we get `/x` type notation, x=no of 1's
-* Count the 0's & we get `No of host = 2^x`, where x=no of 0's
+* Count the 0's & we get `Total No of host = 2^x`, where x=no of 0's
 
