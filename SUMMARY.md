@@ -18,6 +18,7 @@
     * [ifconfig](commands/linux/ifconfig.md)
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
+    * [netcat ⭐](commands/linux/netcat.md)
     * [rm](commands/linux/rm.md)
     * [vim](commands/linux/vim.md)
   * [Windows ⬛](commands/windows.md)
@@ -52,5 +53,7 @@
   * [THM](practice/thm.md)
   * [HTB](practice/htb.md)
 * [Bug Bounty 💰](bug-bounty.md)
-* [Resources 🔗](resources.md)
+* [Resources 🔗](resources/README.md)
+  * [Learning Websites](resources/learning-websites.md)
+  * [Useful Websites](resources/useful-websites.md)
 
