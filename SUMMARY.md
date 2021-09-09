@@ -25,6 +25,7 @@
   * [Subnetting](topics/subnetting.md)
   * [IP Address](topics/ip-address.md)
 * [How To 🤔](how-to/README.md)
+  * [add a new user](how-to/add-a-new-user.md)
   * [upload exploits/files](how-to/s.md)
 * [Ports 🧿](ports/README.md)
   * [20/21 - FTP](ports/20-21-ftp.md)

@@ -12,3 +12,6 @@ Results:
 
 [✍️](https://emojipedia.org/writing-hand/#:~:text=A%20right%20hand%20holding%20a,to%20Emoji%201.0%20in%202015.) We still use IPv4 with NAT \(Network Address Translation\) so we are assigned private IP addresses
 
+### Resources & Links
+
+* 
