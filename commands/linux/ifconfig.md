@@ -14,4 +14,5 @@ Results:
 
 ### Resources & Links
 
-* 
+* [https://linuxize.com/post/ifconfig-command/](https://linuxize.com/post/ifconfig-command/)
+
