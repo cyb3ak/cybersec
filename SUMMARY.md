@@ -25,7 +25,7 @@
   * [Subnetting](topics/subnetting.md)
   * [IP Address](topics/ip-address.md)
 * [How To 🤔](how-to/README.md)
-  * [s](how-to/s.md)
+  * [upload exploits/files](how-to/s.md)
 * [Ports 🧿](ports/README.md)
   * [20/21 - FTP](ports/20-21-ftp.md)
   * [22 - SSH , SFTP](ports/22-ssh-sftp.md)
