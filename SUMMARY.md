@@ -54,6 +54,7 @@
   * [HTB](practice/htb.md)
 * [Bug Bounty 💰](bug-bounty.md)
 * [Resources 🔗](resources/README.md)
+  * [OSCP Guides](resources/oscp-guides.md)
   * [Learning Websites](resources/learning-websites.md)
   * [Useful Websites](resources/useful-websites.md)
 
