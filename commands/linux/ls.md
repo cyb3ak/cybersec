@@ -29,16 +29,40 @@ ls
 
 ### Useful Usecases
 
- **Display One File Per Line**
+ Display One File Per Line
 
 ```text
 ls -1
 ```
 
- **Display All Information About Files/Directories**
+ Display All Information About Files/Directories
 
 ```text
 ls -l
+```
+
+  ****Display File Size in Human Readable Format
+
+```text
+ls -lh
+```
+
+ Order Files Based on Last Modified Time
+
+```text
+ls -lt
+```
+
+ Display Hidden Files
+
+```text
+ls -la
+```
+
+ Display File UID and GID - shows the **`UID`** and **`GID`** in numeric format instead of names.
+
+```text
+ls -n [filepath]
 ```
 
 ### References & links
