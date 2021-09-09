@@ -17,6 +17,7 @@
   * [Linux 🐧](commands/linux/README.md)
     * [ifconfig](commands/linux/ifconfig.md)
     * [locate](commands/linux/locate.md)
+    * [ls](commands/linux/ls.md)
   * [Windows ⬛](commands/windows.md)
 * [Topics 📚](topics/README.md)
   * [Subnetting](topics/subnetting.md)
