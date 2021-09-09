@@ -19,6 +19,10 @@ updatedb
  The **`locate`** command works better and faster than **`find`** __command, because **`locate`** search through a database whereas **`find`** searches the file system.
 
 ```text
+man locate
+```
+
+```text
 locate  [options]  [pattern]
 ```
 
@@ -51,13 +55,16 @@ locate filename.txt
 locate "*.html" -n 20
 ```
 
-#### Display The Number of Matching Entries
+#### Display number of specific file type \(output = no of .txt file\)
 
 ```text
-locate -c [.txt]*
+locate -c “*.txt*”
 ```
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Useful Links
+
+1. [https://linuxhint.com/linux-locate-command/](https://linuxhint.com/linux-locate-command/)
+2. [https://www.geeksforgeeks.org/locate-command-in-linux-with-examples/](https://www.geeksforgeeks.org/locate-command-in-linux-with-examples/)
 
