@@ -18,3 +18,11 @@ updatedb
 
  The **`locate`** command works better and faster than **`find`** __command, because **`locate`** search through a database whereas **`find`** searches the file system.
 
+Syntax:
+
+```text
+locate [OPTION]... PATTERN...
+```
+
+
+
