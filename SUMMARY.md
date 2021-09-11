@@ -19,6 +19,7 @@
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
     * [netcat ⭐](commands/linux/netcat.md)
+    * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
     * [vim](commands/linux/vim.md)
   * [Windows ⬛](commands/windows.md)
