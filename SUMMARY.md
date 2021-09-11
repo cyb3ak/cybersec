@@ -19,6 +19,7 @@
     * [cd](commands/linux/cd.md)
     * [file](commands/linux/file.md)
     * [ifconfig](commands/linux/ifconfig.md)
+    * [less](commands/linux/less.md)
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
     * [netcat ⭐](commands/linux/netcat.md)
