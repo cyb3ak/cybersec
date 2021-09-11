@@ -15,6 +15,7 @@
     * [Windows](pentesting/privilege-escalation/windows.md)
 * [Commands ⌨️](commands/README.md)
   * [Linux 🐧](commands/linux/README.md)
+    * [cd](commands/linux/cd.md)
     * [ifconfig](commands/linux/ifconfig.md)
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
