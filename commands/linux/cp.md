@@ -22,6 +22,12 @@ cp file destination/newfile.txt
 
 if **`newfile.txt`** exist before, it will be overwritten by default
 
+use  **`-i`** flag \(interactive\) to prompt you before overwriting a file.
+
+```text
+cp -i file destination/newfile.txt
+```
+
 ### multiple files & folders to folder
 
 ```text
