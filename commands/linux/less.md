@@ -42,7 +42,25 @@ ps aux | less
 * **`f`** - to go forward / next page
 * **`b`** - to go back / previous page
 
+### Commands
 
+| Command | Action |
+| :--- | :--- |
+| `Down arrow`, `Enter`, `e`, or `j` | Move forward one line. |
+| `Up arrow`,`y` or `k` | Move backward one line. |
+| `Space bar` or `f` | Move Forward one page. |
+| `b` | Move Backward one page. |
+| `/pattern` | Search forward for matching patterns. |
+| `?pattern` | Search backward for matching patterns. |
+| `n` | Repeat previous search. |
+| `N` | Repeat previous search in reverse direction. |
+| `g` | Go to the first line in the file. |
+| `Ng` | Go to the N-th line in the file. |
+| `G` | Go to the last line in the file. |
+| `p` | Go to the beginning of fthe ile. |
+| `Np` | Go to N percent into file. |
+| `h` | Display help. |
+| `q` | Exit `less`. |
 
 
 
