@@ -17,6 +17,7 @@
   * [Linux 🐧](commands/linux/README.md)
     * [cat](commands/linux/cat.md)
     * [cd](commands/linux/cd.md)
+    * [cp](commands/linux/cp.md)
     * [file](commands/linux/file.md)
     * [ifconfig](commands/linux/ifconfig.md)
     * [less](commands/linux/less.md)
