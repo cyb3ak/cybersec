@@ -23,6 +23,7 @@
     * [less](commands/linux/less.md)
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
+    * [mv](commands/linux/mv.md)
     * [netcat ⭐](commands/linux/netcat.md)
     * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
