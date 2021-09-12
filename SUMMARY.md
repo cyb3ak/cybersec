@@ -15,6 +15,7 @@
     * [Windows](pentesting/privilege-escalation/windows.md)
 * [Commands ⌨️](commands/README.md)
   * [Linux 🐧](commands/linux/README.md)
+    * [alias](commands/linux/alias.md)
     * [cat](commands/linux/cat.md)
     * [cd](commands/linux/cd.md)
     * [cp](commands/linux/cp.md)
