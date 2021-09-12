@@ -19,6 +19,7 @@
     * [cd](commands/linux/cd.md)
     * [cp](commands/linux/cp.md)
     * [file](commands/linux/file.md)
+    * [find](commands/linux/find.md)
     * [ifconfig](commands/linux/ifconfig.md)
     * [less](commands/linux/less.md)
     * [locate](commands/linux/locate.md)
