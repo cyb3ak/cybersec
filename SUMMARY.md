@@ -16,6 +16,7 @@
 * [Commands ⌨️](commands/README.md)
   * [Linux 🐧](commands/linux/README.md)
     * [&gt; \(stdout\)](commands/linux/greater-than.md)
+    * [&lt; \(stdin\)](commands/linux/less-than-stdin.md)
     * [alias](commands/linux/alias.md)
     * [cat](commands/linux/cat.md)
     * [cd](commands/linux/cd.md)
