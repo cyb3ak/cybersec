@@ -15,6 +15,7 @@
     * [Windows](pentesting/privilege-escalation/windows.md)
 * [Commands ⌨️](commands/README.md)
   * [Linux 🐧](commands/linux/README.md)
+    * [stderr](commands/linux/stderr.md)
     * [&gt; \(stdout\)](commands/linux/greater-than.md)
     * [&lt; \(stdin\)](commands/linux/less-than-stdin.md)
     * [alias](commands/linux/alias.md)
