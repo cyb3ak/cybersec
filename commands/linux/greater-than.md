@@ -1,4 +1,4 @@
-# &gt;
+# &gt; \(stdout\)
 
 The **`>`** is a redirection operator that allows us the change where **`standard output`** goes
 
