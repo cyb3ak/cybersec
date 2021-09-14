@@ -8,3 +8,9 @@ This outputs information about the `environment variables.` These variables cont
 
 We can access these variables by sticking a **`$`** in front of the variable name
 
+eg
+
+```text
+echo $PATH
+```
+
