@@ -23,6 +23,7 @@
     * [cat](commands/linux/cat.md)
     * [cd](commands/linux/cd.md)
     * [cp](commands/linux/cp.md)
+    * [cut](commands/linux/cut.md)
     * [env](commands/linux/env.md)
     * [file](commands/linux/file.md)
     * [find](commands/linux/find.md)
