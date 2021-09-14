@@ -6,6 +6,10 @@ lists directory contents of files and directories.
 ls
 ```
 
+```text
+ls [dir-path]
+```
+
 ### Output
 
 #### understanding 1st charater of output
