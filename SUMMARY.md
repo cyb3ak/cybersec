@@ -18,6 +18,7 @@
     * [&gt; \(stdout\)](commands/linux/greater-than.md)
     * [&lt; \(stdin\)](commands/linux/less-than-stdin.md)
     * [stderr](commands/linux/stderr.md)
+    * [\| \(pipe\)](commands/linux/or-pipe.md)
     * [alias](commands/linux/alias.md)
     * [cat](commands/linux/cat.md)
     * [cd](commands/linux/cd.md)
