@@ -2,6 +2,8 @@
 
 **`cut`** command extracts portions of text from a file or piped data.
 
+**Cons:** It doesn’t support specifying more than one character as a delimiter and it doesn’t support multiple delimiters
+
 ### Syntax
 
 ```text
