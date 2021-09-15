@@ -12,6 +12,10 @@ accepts two sets of characters, usually with the same length, **replaces** chara
 
 * **ranges** can also be passed instead of sets
 
+### Refer for character classes
+
+{% page-ref page="../../topics/character-classes-and-bracket-ops.md" %}
+
 ### Useful flags
 
 * **`-c`** : **complements** the set of characters in string.i.e., operations apply to characters not in the given set 
