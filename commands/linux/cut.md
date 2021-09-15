@@ -20,5 +20,5 @@ cut OPTION... [FILE]...
 
 ### Useful Links:
 
-* [https://linuxize.com/post/linux-cut-command/](https://linuxize.com/post/linux-cut-command/)
+* [https://www.geeksforgeeks.org/cut-command-linux-examples/](https://www.geeksforgeeks.org/cut-command-linux-examples/)
 
