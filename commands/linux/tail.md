@@ -1,7 +1,7 @@
 # tail
 
 * displays the last part \(10 lines by default\) of one or more files or piped data
-* It can be also used to monitor the file changes in real-time.
+* It can be also used to monitor the file changes in real-time \(**`-f`**\).
 
 ### syntax
 
@@ -26,4 +26,8 @@ tail -n <NUMBER> file.txt
 ```text
 tail -c <NUMBER> filename.txt
 ```
+
+### Watch a File for Changes \(-f\) <a id="how-to-watch-a-file-for-changes"></a>
+
+
 
