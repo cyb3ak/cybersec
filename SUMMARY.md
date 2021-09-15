@@ -30,6 +30,7 @@
     * [find](commands/linux/find.md)
     * [head](commands/linux/head.md)
     * [ifconfig](commands/linux/ifconfig.md)
+    * [join](commands/linux/join.md)
     * [less](commands/linux/less.md)
     * [locate](commands/linux/locate.md)
     * [ls](commands/linux/ls.md)
