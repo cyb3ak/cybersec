@@ -29,5 +29,9 @@ tail -c <NUMBER> filename.txt
 
 ### Watch a File for Changes \(-f\) <a id="how-to-watch-a-file-for-changes"></a>
 
+```text
+tail -f filename.txt
+```
 
+* This option is particularly useful for monitoring log files
 
