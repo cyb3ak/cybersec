@@ -12,9 +12,9 @@ cut OPTION... [FILE]...
 
  `OPTION` that tell `cut` whether to use a **delimiter**, **byte position**, or **character** when cutting
 
-* `-f` \(`--fields=LIST`\) - Select by specifying a field, a set of fields, or a range of fields. This is the most commonly used option.
-* `-b` \(`--bytes=LIST`\) - Select by specifying a byte, a set of bytes, or a range of bytes.
-* `-c` \(`--characters=LIST`\) - Select by specifying a character, a set of characters, or a range of characters.
+* **`-f`** \(`--fields=LIST`\) - Select by specifying **a field**, a **set of fields**, or a **range of fields**. This is the most commonly used option.
+* `-b` \(`--bytes=LIST`\) - Select by specifying **a byte**, a **set of bytes**, or a **range of bytes**.
+* `-c` \(`--characters=LIST`\) - Select by specifying **a character**, **a set of characters**, or a **range of characters**.
 
 ### Useful Links:
 
