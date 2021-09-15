@@ -34,6 +34,7 @@
     * [mkdir](commands/linux/mkdir.md)
     * [mv](commands/linux/mv.md)
     * [netcat ⭐](commands/linux/netcat.md)
+    * [paste](commands/linux/paste.md)
     * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
     * [tee](commands/linux/tee.md)
