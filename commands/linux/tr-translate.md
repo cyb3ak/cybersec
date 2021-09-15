@@ -41,5 +41,7 @@ echo "Welcome    To    cybersecLogs" | tr -s [:space:] ' '
 echo $PATH | tr ':' '\n'
 ```
 
+### Useful Links
 
+* [https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
 
