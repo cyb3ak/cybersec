@@ -38,6 +38,7 @@
     * [paste](commands/linux/paste.md)
     * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
+    * [tail](commands/linux/tail.md)
     * [tee](commands/linux/tee.md)
     * [touch](commands/linux/touch.md)
     * [vim](commands/linux/vim.md)

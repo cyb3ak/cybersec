@@ -13,13 +13,13 @@ head [OPTION]... [FILE]..
 
 ## Usecases
 
-### Display a Specific Number of Lines <a id="display-a-specific-number-of-lines"></a>
+### Display first n Lines <a id="display-a-specific-number-of-lines"></a>
 
 ```text
 head -n 5 file.txt
 ```
 
-### Display a Specific Number of Bytes  <a id="display-a-specific-number-of-bytes"></a>
+### Display first n specific Bytes  <a id="display-a-specific-number-of-bytes"></a>
 
 ```text
 head -c 5 file.txt
