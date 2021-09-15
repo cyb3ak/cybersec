@@ -46,6 +46,7 @@
     * [tee](commands/linux/tee.md)
     * [touch](commands/linux/touch.md)
     * [tr \(translate\)](commands/linux/tr-translate.md)
+    * [uniq](commands/linux/uniq.md)
     * [vim](commands/linux/vim.md)
   * [Windows ⬛](commands/windows.md)
 * [Topics 📚](topics/README.md)
