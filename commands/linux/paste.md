@@ -1,6 +1,6 @@
 # paste
 
-it merges lines horizontally together in a file, separated by **`tab`** as a delimiter, to the standard output.
+it merges lines/files horizontally or series\(-s\) together in a file, separated by **`tab`** as a default delimiter, to the standard output.
 
 **Syntax:**
 
