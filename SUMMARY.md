@@ -40,6 +40,7 @@
     * [paste](commands/linux/paste.md)
     * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
+    * [sort](commands/linux/sort.md)
     * [split](commands/linux/split.md)
     * [tail](commands/linux/tail.md)
     * [tee](commands/linux/tee.md)
