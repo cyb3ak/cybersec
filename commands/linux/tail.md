@@ -2,6 +2,8 @@
 
 * displays the last part \(10 lines by default\) of one or more files or piped data
 * It can be also used to monitor the file changes in real-time \(**`-f`**\).
+* To interrupt the tail command while it is watching a file, press `Ctrl+C`.
+* To keep monitoring the file when it is recreated, use the `-F` option.
 
 ### syntax
 
@@ -34,4 +36,6 @@ tail -f filename.txt
 ```
 
 * This option is particularly useful for monitoring log files
+
+#### 
 
