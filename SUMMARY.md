@@ -48,6 +48,7 @@
     * [tr \(translate\)](commands/linux/tr-translate.md)
     * [uniq](commands/linux/uniq.md)
     * [vim](commands/linux/vim.md)
+    * [wc](commands/linux/wc.md)
   * [Windows ⬛](commands/windows.md)
 * [Topics 📚](topics/README.md)
   * [Character classes & Bracket ops](topics/character-classes-and-bracket-ops.md)
