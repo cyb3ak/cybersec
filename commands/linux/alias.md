@@ -10,11 +10,20 @@ alias alias_name="command_to_run"
 
 but this is temp & is not persistent
 
-### Make the alias persistent
+### Make the alias persistent 
+
+find the shell you are using: **`echo $0`**
+
+#### If using `bash` shell
 
 *  declare it in the **`~/.bash_profile`** or **`~/.bashrc`** file
 * nano **`~/.bashrc`**
 * Once done, save and close the file. Make the aliases available in your current session by typing: **`source ~/.bashrc`**
+
+#### If using `zsh` shell
+
+* nano **`~/.zshrc`**
+* Once done, save and close the file. Make the aliases available in your current session by typing: **`source ~/.zshrc`**
 
 ## If you want to create `alias` with arguments see
 
