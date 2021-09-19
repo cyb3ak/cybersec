@@ -22,6 +22,36 @@ grep [options] pattern [files]
 -w : Match whole word
 ```
 
+### Usecase
+
+Let's use our sample.txt file as an example:
+
+```text
+$ grep fox sample.txt
+```
+
+You should see that grep found fox in the sample.txt file.
+
+You can also grep patterns that are case insensitive with the -i flag:
+
+```text
+$ grep -i somepattern somefile
+```
+
+To get even more flexible with grep you can combine it with other commands with \|.
+
+```text
+$ env | grep -i User
+```
+
+As you can see grep is pretty versatile. You can even use regular expressions in your pattern:
+
+```text
+$ ls /somedir | grep '.txt$'
+```
+
+Should return all files ending with .txt in somedir.
+
 ### Useful Links
 
 * [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
