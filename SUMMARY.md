@@ -41,6 +41,7 @@
     * [mv](commands/linux/mv.md)
     * [netcat ⭐](commands/linux/netcat.md)
     * [paste](commands/linux/paste.md)
+    * [ping](commands/linux/ping.md)
     * [pwd](commands/linux/pwd.md)
     * [rm](commands/linux/rm.md)
     * [sort](commands/linux/sort.md)
