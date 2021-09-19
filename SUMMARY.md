@@ -28,6 +28,7 @@
     * [expand and unexpand](commands/linux/expand-and-unexpand.md)
     * [file](commands/linux/file.md)
     * [find](commands/linux/find.md)
+    * [grep](commands/linux/grep.md)
     * [head](commands/linux/head.md)
     * [ifconfig](commands/linux/ifconfig.md)
     * [join](commands/linux/join.md)
