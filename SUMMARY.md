@@ -24,6 +24,7 @@
     * [cd](commands/linux/cd.md)
     * [cp](commands/linux/cp.md)
     * [cut](commands/linux/cut.md)
+    * [echo](commands/linux/echo.md)
     * [env](commands/linux/env.md)
     * [expand and unexpand](commands/linux/expand-and-unexpand.md)
     * [file](commands/linux/file.md)
